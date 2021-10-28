@@ -71,7 +71,7 @@ def AddEmp():
                 custombucket,
                 emp_image_file_name_in_s3)
 
-        except Exception as e:
+        except KeyError as e:
             return str(e)
 
     finally:
