@@ -1,0 +1,6 @@
+customhost = "awsproject.c0ze3pbnu4xt.us-east-1.rds.amazonaws.com"
+customuser = "chaitanya"
+custompass = "chaitanya"
+customdb = "employee"
+custombucket = "addemployeecs"
+customregion = "us-east-1"
