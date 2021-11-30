@@ -1,3 +1,6 @@
+End to end website made using aws resources and real time database tracking !!
+
+STEPS:
 sudo apt-get update
 # For Sql-client
 sudo apt-get install mysql-client
